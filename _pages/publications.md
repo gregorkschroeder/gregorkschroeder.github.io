@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /about/
+permalink: /publications/
 ---
 
 Gregor Schroeder has contributed to and authored several publications in the fields of biotechnology, criminal justice, and demography. Publications are listed below in chronological order.
