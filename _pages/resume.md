@@ -4,4 +4,4 @@ title:
 permalink: /resume/
 ---
 
-<object data="{{ site.url }}/download/GregorSchroeder.pdf" width="750" height="1000" type="application/pdf"></object>
+<object data="{{ site.baseurl }}/download/GregorSchroeder.pdf" width="750" height="1000" type="application/pdf"></object>
