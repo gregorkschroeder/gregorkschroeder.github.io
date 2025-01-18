@@ -7,4 +7,4 @@ permalink: /resume/
 [Download a copy here][1]
 
 
-[1]:{{ site.url }}/download/file.pdf
+[1]:{{ site.url }}/download/GregorSchroeder.pdf
